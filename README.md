@@ -5,7 +5,7 @@ Responsible for making designs and mobile apps
 # Mobile Development Members
 
 1. A206D4KY3521 - Muh Indrawan Pratama
-2. A014D4KY3688 - Made Widi Arsa Ari Saputra
+2. A014D4KY3688 - I Made Widi Arsa Ari Saputra
 
 # Designs
 
